@@ -1,6 +1,6 @@
 # About💱LotteryProject-solidity
 
-⭕PROCESS IN CODE
+⭕EXPLANATION 
 1) the Lottery starts by accepting ETH transaction Anyone having ETH wallet can send a fixed amount of 0.1 ETH to the contract's address
 2) The players send ETH directly to the contract address and their Eth address is registered . A user send more transaction gaving more chances to win
 3) There is a manager , the account that deploys and controls the contract
